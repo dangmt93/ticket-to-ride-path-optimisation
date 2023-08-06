@@ -1,0 +1,4 @@
+﻿  graph.c
+E:\__UTAS\Year 2\Sem 2\KIT205 - Data Structures + Algos\Ass\Ass3\KIT205_Ass3\graph.c(514,16): warning C4101: 'path': unreferenced local variable
+E:\__UTAS\Year 2\Sem 2\KIT205 - Data Structures + Algos\Ass\Ass3\KIT205_Ass3\graph.c(385): warning C4715: 'edge_weight': not all control paths return a value
+  KIT205_Ass3.vcxproj -> E:\__UTAS\Year 2\Sem 2\KIT205 - Data Structures + Algos\Ass\Ass3\KIT205_Ass3\Debug\KIT205_Ass3.exe
