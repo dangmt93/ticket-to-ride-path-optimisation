@@ -21,6 +21,12 @@ We can visualise the map as an undirected graph, where
 -   the edges represent the routes between cities, and their weights represent the number of train tokens required to connect adjacent cities
 
 The map above can be visualised as followed:
+
+
+
+
+
+
 <div align="center"><img src="./images/ticket-to-ride-map-converted.png" alt="Ticket to ride map converted" width="90%"/></div>
 
 To create the map, the following input method is used:
