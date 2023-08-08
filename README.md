@@ -5,6 +5,7 @@
 [Ticket to Ride](https://www.daysofwonder.com/tickettoride/en/usa/) is a popular board game that involves connecting cities in a given railroad network. We need to prototype some potential approaches for creating an AI player for this game (since the AI players for the computerised version are currently terrible!)
 
 <p align="center"><img src="./images/ticket-to-ride-map.PNG" alt="Ticket to ride map" width="90%/></p>
+<br clear="left"/>
 
 The basic gameplay of Ticket to Ride requires players to fulfil "tickets", which are randomly selected, by claiming the routes between cities.
 
@@ -21,12 +22,6 @@ We can visualise the map as an undirected graph, where
 -   the edges represent the routes between cities, and their weights represent the number of train tokens required to connect adjacent cities
 
 The map above can be visualised as followed:
-
-
-
-
-
-
 <div align="center"><img src="./images/ticket-to-ride-map-converted.png" alt="Ticket to ride map converted" width="90%"/></div>
 
 To create the map, the following input method is used:
