@@ -23,6 +23,8 @@ We can visualise the map as an undirected graph, where
 The map above can be visualised as followed:
 <p align="center"><img src="./images/ticket-to-ride-map-converted.png" alt="Ticket to ride map converted" width="90%"/></p>
 
+![Ticket to ride map converted](./images/ticket-to-ride-map-converted.png)
+
 To create the map, the following input method is used:
 
 -   The 1st line of input specifies the number of vertices (cities) in the graph.
