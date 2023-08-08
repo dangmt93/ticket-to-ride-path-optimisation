@@ -22,7 +22,8 @@ We can visualise the map as an undirected graph, where
 -   the edges represent the routes between cities, and their weights represent the number of train tokens required to connect adjacent cities
 
 The map above can be visualised as followed:
-<div align="center"><img src="./images/ticket-to-ride-map-converted.png" alt="Ticket to ride map converted" width="90%"/></div>
+<p align="center"><img src="./images/ticket-to-ride-map-converted.png" alt="Ticket to ride map converted" width="90%"/></p>
+<br clear="left"/>
 
 To create the map, the following input method is used:
 
@@ -78,6 +79,7 @@ The problem of finding the cheapest way to fulfil tickets is related to the mini
 -   In this case, the top map shows the shortest paths for tickets A and B, and the bottom map shows one way that these tickets can be fulfilled more efficiently.
 
 <p align="center"><img src="./images/Sample%20solutions%20on%20map.png" alt="Sample solutions on map" width="70%"/></p>
+<br clear="left"/>
 
 So, the ticket fulfilment problem is related to the MST problem and also to the [Steiner tree problem](https://en.wikipedia.org/wiki/Steiner_tree_problem) of finding an MST for a subset of the vertices in the graph.
 
